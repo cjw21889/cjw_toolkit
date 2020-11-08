@@ -1,0 +1,3 @@
+graft cjw_toolkit
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  cjw_toolkit/jupy *
